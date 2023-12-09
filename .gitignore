@@ -1,0 +1,12 @@
+*.pdf
+*.docx
+*.doc
+*.png
+*.jpeg
+*jpg
+*.png
+*.exe
+*.out
+*.class
+*./Books
+*./vscode
